@@ -8,7 +8,7 @@ AI · Backend Engineering · Aerospace Simulation · Legal Tech · Quantitative 
 
 ---
 
-## What I've Built
+## Best Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -34,17 +34,6 @@ Backend architecture and system design at [elevyx.in](https://elevyx.in).
 Building a workflow automation platform for company operations.
 
 ---
-
-## Tech
-
-```
-Languages    Python · TypeScript · JavaScript · SQL · Bash
-Backend      FastAPI · Flask · Node.js · PostgreSQL · SQLite
-AI / ML      LangChain · Qdrant · Groq · HuggingFace · PyTorch · scikit-learn
-Frontend     Next.js 14 · React · HTML/CSS
-Infra        OAuth 2.0 · REST APIs · n8n · Raspberry Pi
-Domains      RAG Pipelines · Risk Modeling · Physics Simulation · Quant Finance
-```
 
 ---
 

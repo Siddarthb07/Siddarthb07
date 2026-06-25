@@ -12,28 +12,39 @@ AI · Backend Engineering · Aerospace Simulation · Legal Tech · Quantitative 
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏛️ **[LexProbe](https://siddarthb07.github.io/siddarthb/)** | Indian legal AI platform — RAG pipeline with full citation audit trail, hallucination filtering, and a 1,300+ law knowledge base. Closed source — actively productizing. | Next.js 14 · FastAPI · Groq · Qdrant · PostgreSQL |
-| 🫀 **[Health-AI](https://github.com/Siddarthb07/Health-AI)** | Explainable health risk platform with clinically validated scoring (ACC/AHA, FINDRISC), 17-biomarker lab tracking, OAuth smartwatch sync, and hard gating before any risk is surfaced. | Flask · Python · SQLite · OAuth 2.0 |
-| 📈 **[GeoQuant](https://github.com/Siddarthb07/GeoQuant)** | Full systematic trading pipeline — ML directional prediction, news-driven sentiment scoring, paper/live order routing, and a self-learning loop that resolves past predictions and retrains periodically. | FastAPI · PyTorch · yfinance · Alpaca API |
-| 🌀 **[Drone Vortex Ring Simulation](https://github.com/Siddarthb07/Drone-Vortex-Ring-Simulation)** | Interactive physics simulation of vortex ring dynamics under different drone thrust profiles. Interactive Matplotlib UI with export, comparisons, and dimensionless regime labeling. Built on aerodynamics research conducted at IISc. | Python · NumPy · Matplotlib |
+| 🏛️ **[Lexprobe](https://github.com/Siddarthb07/Lexprobe)** | Indian legal AI — RAG with citation audit and hallucination filtering. **Public architecture docs**; application is closed source, closed beta. | Next.js 14 · FastAPI · Qdrant · PostgreSQL |
+| 🧠 **[Anima](https://github.com/Siddarthb07/Anima)** | Dimensional LLM readouts — research tooling for valence / arousal / uncertainty probes via FastAPI. | FastAPI · Python · PyTorch |
+| 🎙️ **[AI-BRAIN](https://github.com/Siddarthb07/AI-BRAIN)** | Voice-first daily OS — Whisper STT, local LLM + Groq fallback, Qdrant RAG, Calendar OAuth. | FastAPI · Next.js · Ollama |
+| 🫀 **[Health-AI](https://github.com/Siddarthb07/Health-AI)** | Explainable health risk platform with clinically validated scoring (ACC/AHA, FINDRISC), 17-biomarker lab tracking, OAuth smartwatch sync. | Flask · Python · SQLite |
+| 📈 **[GeoQuant](https://github.com/Siddarthb07/GeoQuant)** | Systematic trading pipeline — ML signals, news sentiment, Alpaca paper routing, self-learning retrain loop. | FastAPI · PyTorch · Alpaca API |
+| 🌀 **[Drone Vortex Ring Simulation](https://github.com/Siddarthb07/Drone-Vortex-Ring-Simulation)** | Interactive vortex-ring physics under drone thrust profiles. Feeds the [NeuralVortex](https://github.com/Siddarthb07/NeuralVortex) ML surrogate. | Python · NumPy · Matplotlib |
+
+---
+
+## Aerospace cluster
+
+Physics simulators and ML surrogate work from IISc research:
+
+- [vortex-tracker](https://github.com/Siddarthb07/vortex-tracker) — OpenCV measurement of vortex rings from high-speed sequences (IISc internship)
+- [Propeller-simulator](https://github.com/Siddarthb07/Propeller-simulator) — BEMT propeller sweeps
+- [Drone-Vortex-Ring-Simulation](https://github.com/Siddarthb07/Drone-Vortex-Ring-Simulation) — reduced-order vortex dynamics
+- [NeuralVortex](https://github.com/Siddarthb07/NeuralVortex) — Fourier Neural Operator surrogate (100× target speedup)
 
 ---
 
 ## Experience
 
-**Research Intern — Indian Institute of Science (IISc), Bangalore** `2024`
-Studied vortex ring formation and VRS (Vortex Ring State) instability in rotorcraft systems. Work informed the drone simulation above.
+**Research Intern — Indian Institute of Science (IISc), Bangalore** `2024`  
+Studied vortex ring formation and VRS instability in rotorcraft systems.
 
-**Engineering Intern — Vegam Co** `2025–2026`
-Built a RAG-based NL-to-SQL pipeline for large dataset querying and visualization.
+**Engineering Intern — Vegam Co** `2025–2026`  
+Built a RAG-based NL-to-SQL pipeline — see [text2sql-rag](https://github.com/Siddarthb07/text2sql-rag).
 
-**Senior Backend Developer — Elevyx** `Ongoing`
-Backend architecture and system design at [elevyx.in](https://elevyx.in).
+**Senior Backend Developer — Elevyx** `Ongoing`  
+Backend architecture at [elevyx.in](https://elevyx.in).
 
-**Founder — Athera** `Ongoing`
-Building a workflow automation platform for company operations.
-
----
+**Founder — Athera** `Ongoing`  
+Workflow automation for small businesses — [athera.digital](https://athera.digital).
 
 ---
 
@@ -41,13 +52,13 @@ Building a workflow automation platform for company operations.
 
 - 🚁 Built and tuned quadcopter and hexacopter systems — flight control, propeller optimization, telemetry
 - 🏠 Raspberry Pi NAS, DNS ad blocker, distributed computing experiments
-- 🎤 Voice assistant (Jarvis-style) for system automation
-- 👁️ Gesture-based CV systems for volume control and sign language recognition
+- 👁️ Gesture-based CV systems — [sign-language-cv](https://github.com/Siddarthb07/sign-language-cv) scaffold
 - ⚽ National-level competitive footballer
 
 ---
 
 <p align="center">
   <a href="https://siddarthb07.github.io/siddarthb/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Siddarthb07/Lexprobe">Lexprobe docs</a> &nbsp;·&nbsp;
   <a href="mailto:siddarthb078@gmail.com">Email</a>
 </p>

@@ -40,9 +40,6 @@ Studied vortex ring formation and VRS instability in rotorcraft systems.
 **Engineering Intern — Vegam Co** `2025–2026`  
 Built a RAG-based NL-to-SQL pipeline — see [text2sql-rag](https://github.com/Siddarthb07/text2sql-rag).
 
-**Senior Backend Developer — Elevyx** `Ongoing`  
-Backend architecture at [elevyx.in](https://elevyx.in).
-
 **Founder — Athera** `Ongoing`  
 Workflow automation for small businesses — [athera.digital](https://athera.digital).
 

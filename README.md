@@ -1,8 +1,8 @@
 # Siddarth Boggarapu
 
-> I build systems that operate under uncertainty across finance, healthcare, legal reasoning, security, and physical simulation. My work combines machine learning, backend engineering, and physics-based modeling to create systems that are measurable, explainable, and grounded in real-world constraints.
+> I build systems that operate under uncertainty across finance, healthcare, security, and physical simulation. My work combines machine learning, backend engineering, and physics-based modeling to create systems that are measurable, explainable, and grounded in real-world constraints.
 
-AI · Backend Engineering · Aerospace Simulation · Legal Tech · Quantitative Finance · Security
+AI · Backend Engineering · Aerospace Simulation · Security · Quantitative Finance
 
 📍 Bangalore, India | 📧 <siddarthb078@gmail.com>
 
@@ -14,7 +14,7 @@ AI · Backend Engineering · Aerospace Simulation · Legal Tech · Quantitative 
 | --- | --- | --- |
 | 🧠 **[Anima](https://github.com/Siddarthb07/Anima)** | Dimensional LLM readouts — research tooling for valence / arousal / uncertainty probes via FastAPI. | FastAPI · Python · PyTorch |
 | 🛰 **[Corvex](https://github.com/Siddarthb07/corvex)** | Multi-host campaign correlator — stitches weak signals across machines into one attack timeline. Sealed held-out eval; live containment gated behind a safety checklist and dry-run only. | Python · Docker |
-| 🫀 **[Health-AI](https://github.com/Siddarthb07/Health-AI)** | Explainable health risk platform with clinically validated scoring (ACC/AHA, FINDRISC), 17-biomarker lab tracking, OAuth smartwatch sync. | Flask · Python · SQLite |
+| 🫀 **[Drift](https://github.com/Siddarthb07/Health-AI)** | Explainable health risk platform with clinically validated scoring (ACC/AHA, FINDRISC), 17-biomarker lab tracking, OAuth smartwatch sync. | Flask · Python · SQLite |
 | 📈 **[GeoQuant](https://github.com/Siddarthb07/GeoQuant)** | Systematic trading pipeline — ML signals, news sentiment, Alpaca paper routing, self-learning retrain loop. | FastAPI · PyTorch · Alpaca API |
 | 🌀 **[Drone Vortex Ring Simulation](https://github.com/Siddarthb07/Drone-Vortex-Ring-Simulation)** | Interactive vortex-ring physics under drone thrust profiles. Feeds the [NeuralVortex](https://github.com/Siddarthb07/NeuralVortex) ML surrogate. | Python · NumPy · Matplotlib |
 

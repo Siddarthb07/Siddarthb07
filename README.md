@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=Siddarthb07&theme=github-dark&variant=glass&avatar=github" alt="GitSkins Glass Profile" width="820" />
+</p>
+
 # Siddarth Boggarapu
 
 > I build systems that operate under uncertainty across finance, healthcare, security, and physical simulation. My work combines machine learning, backend engineering, and physics-based modeling to create systems that are measurable, explainable, and grounded in real-world constraints.
@@ -6,17 +10,22 @@ AI · Backend Engineering · Aerospace Simulation · Security · Quantitative Fi
 
 📍 Bangalore, India | 📧 <siddarthb078@gmail.com>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/stats?username=Siddarthb07&theme=github-dark" alt="Stats" height="160" />
+  <img src="https://www.gitskins.com/api/languages?username=Siddarthb07&theme=github-dark" alt="Languages" height="160" />
+</p>
+
 ---
 
 ## Best Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🧠 **[Anima](https://github.com/Siddarthb07/Anima)** | Dimensional LLM readouts — research tooling for valence / arousal / uncertainty probes via FastAPI. | FastAPI · Python · PyTorch |
-| 🛰 **[Corvex](https://github.com/Siddarthb07/corvex)** | Multi-host campaign correlator — stitches weak signals across machines into one attack timeline. Sealed held-out eval; live containment gated behind a safety checklist and dry-run only. | Python · Docker |
-| 🫀 **[Drift](https://github.com/Siddarthb07/Drift)** | Explainable health risk platform with clinically validated scoring (ACC/AHA, FINDRISC), 17-biomarker lab tracking, OAuth smartwatch sync. | Flask · Python · SQLite |
-| 📈 **[GeoQuant](https://github.com/Siddarthb07/GeoQuant)** | Systematic trading pipeline — ML signals, news sentiment, Alpaca paper routing, self-learning retrain loop. | FastAPI · PyTorch · Alpaca API |
-| 🌀 **[Drone Vortex Ring Simulation](https://github.com/Siddarthb07/Drone-Vortex-Ring-Simulation)** | Interactive vortex-ring physics under drone thrust profiles. Feeds the [NeuralVortex](https://github.com/Siddarthb07/NeuralVortex) ML surrogate. | Python · NumPy · Matplotlib |
+| 🧠 **[Anima](https://github.com/Siddarthb07/Anima)** | LLM emotion / valence–arousal probes on Hugging Face causal LMs — FastAPI research tooling + optional dashboard. | FastAPI · Python · PyTorch |
+| 🛰 **[Corvex](https://github.com/Siddarthb07/corvex)** | Multi-host campaign correlator for threat hunting — fuses weak host signals into ATT&CK-shaped attack timelines. Sealed synthetic eval; live containment gated / dry-run only. | Python · Docker |
+| 🫀 **[Drift](https://github.com/Siddarthb07/Drift)** | Explainable health risk platform — ACC/AHA + FINDRISC clinical scoring, 17-biomarker lab tracking, OAuth smartwatch sync. | Flask · Python · SQLite |
+| 📈 **[GeoQuant](https://github.com/Siddarthb07/GeoQuant)** | Systematic / quantitative trading pipeline — ML signals, news sentiment, Alpaca paper routing, self-learning retrain loop. | FastAPI · PyTorch · Alpaca API |
+| 🌀 **[Drone Vortex Ring Simulation](https://github.com/Siddarthb07/Drone-Vortex-Ring-Simulation)** | Interactive vortex-ring / aerodynamics physics under drone thrust profiles. Feeds the [NeuralVortex](https://github.com/Siddarthb07/NeuralVortex) ML surrogate. | Python · NumPy · Matplotlib |
 
 ---
 
@@ -55,4 +64,4 @@ AI agent monitoring and auto-remediation — catches silent agent failures (e.g.
 
 ---
 
-[Portfolio](https://siddarthb07.github.io/siddarthb/) · [Corvex](https://github.com/Siddarthb07/corvex) · [Anima](https://github.com/Siddarthb07/anima). [Email](mailto:siddarthb078@gmail.com)
+[Portfolio](https://siddarthb07.github.io/siddarthb/) · [Corvex](https://github.com/Siddarthb07/corvex) · [Anima](https://github.com/Siddarthb07/Anima) · [Email](mailto:siddarthb078@gmail.com)

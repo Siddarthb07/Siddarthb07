@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="150" viewBox="0 0 1100 150" role="img" aria-labelledby="ptitle">
+  <title id="ptitle">Operator principles - look inside, simulate, refuse</title>
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="120%" height="120%">
+      <feDropShadow dx="5" dy="5" stdDeviation="0" flood-color="#050510"/>
+    </filter>
+  </defs>
+
+  <rect width="1100" height="150" fill="#0b0b30"/>
+
+  <g filter="url(#shadow)">
+    <rect x="24" y="22" width="330" height="106" fill="#f3ede0" stroke="#050510" stroke-width="4"/>
+    <text x="44" y="52" fill="#e83668" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="800" letter-spacing="3">01 | PRINCIPLE</text>
+    <text x="44" y="86" fill="#050510" font-family="Impact, Haettenschweiler, Arial Black, sans-serif" font-size="26" letter-spacing="0.5">LOOK INSIDE</text>
+    <text x="44" y="110" fill="#050510" opacity="0.75" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">hooks | probes | uncertainty</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="385" y="22" width="330" height="106" fill="#38c4e0" stroke="#050510" stroke-width="4"/>
+    <text x="405" y="52" fill="#050510" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="800" letter-spacing="3">02 | PRINCIPLE</text>
+    <text x="405" y="86" fill="#050510" font-family="Impact, Haettenschweiler, Arial Black, sans-serif" font-size="26" letter-spacing="0.5">SIMULATE</text>
+    <text x="405" y="110" fill="#050510" opacity="0.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">when reality costs too much</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="746" y="22" width="330" height="106" fill="#e83668" stroke="#050510" stroke-width="4"/>
+    <text x="766" y="52" fill="#f3ede0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="800" letter-spacing="3">03 | PRINCIPLE</text>
+    <text x="766" y="86" fill="#f3ede0" font-family="Impact, Haettenschweiler, Arial Black, sans-serif" font-size="24" letter-spacing="0.5">REFUSAL IS A FEATURE</text>
+    <text x="766" y="110" fill="#f3ede0" opacity="0.85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">calibrated I don't know</text>
+  </g>
+
+  <rect x="24" y="22" width="330" height="106" fill="none" stroke="#d4b464" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="3.6s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="385" y="22" width="330" height="106" fill="none" stroke="#050510" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.7;0" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="746" y="22" width="330" height="106" fill="none" stroke="#d4b464" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="3.6s" begin="2.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

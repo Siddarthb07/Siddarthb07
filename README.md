@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-issue-001.png" alt="ISSUE 001 — Operator Dossier — Siddarth Boggarapu — applied ML, production systems, physical simulation" width="100%" />
+  <img src="assets/hero-issue-001.svg" alt="ISSUE 001 — Operator Dossier — Siddarth Boggarapu — applied ML, production systems, physical simulation" width="100%" />
 </p>
 
 # Siddarth Boggarapu

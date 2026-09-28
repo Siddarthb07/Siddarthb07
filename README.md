@@ -66,7 +66,7 @@ Python · TypeScript · PyTorch · Hugging Face · FastAPI · Next.js · Flask �
 
 ## Outside code
 
-Football (school team 4 years; Goa Globe 2024, team 2nd place) · competitive skating (past) · badminton · swimming · Model UN · 50+ hrs community service, including websites for NGOs.
+Football (school team 4 years; Goa Globe 2024, team 2nd place) · competitive skating (past) · badminton · swimming · Model UN · two SWEA school trips (three days each) · 50+ hrs community service, including websites for NGOs.
 
 ---
 
